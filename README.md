@@ -1,5 +1,5 @@
-# MacOS-Mojave-KVM-Preinstall
-Mac OS running on QEMU-KVM (Pre-install 20GB).
+# Rich-Mojave-KVM-Preinstall
+Rich OS running on QEMU-KVM (Pre-install 20GB).
 
 -Note: It will use all available free ram and CPUs. The script is only for Ubuntu, Debian.
 
@@ -25,7 +25,7 @@ Usage:
 ```console 
 bash MacOS-Mojave.sh 
 ```
-- Start MacOS VM in silent:
+- Start RichOS VM in silent:
 
 (By default VM automatic starts after installation is done! Use this when your VM turn off and need to start again)
 ```console 
